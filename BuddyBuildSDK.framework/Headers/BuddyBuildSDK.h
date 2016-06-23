@@ -100,4 +100,10 @@ typedef void (^BBCallback)();
  */
 + (NSString*)buildConfiguration;
 
+/*
+ * Associate arbitrary key/value pairs with your crash reports
+ * which will be visible from the buddybuild dashboard
+ */
++ (void) setCrashMetadataObject:(id)object forKey:(NSString*)key;
+
 @end
