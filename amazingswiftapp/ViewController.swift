@@ -27,6 +27,7 @@ class ViewController: UIViewController {
     @IBAction func setNew(sender: AnyObject) {
         BuddyBuildSDK.setCrashMetadataObject("576af2a10077a7dd", forKey: "UserID");
         BuddyBuildSDK.setCrashMetadataObject("Login Page", forKey: "CurrentState");
+        BuddyBuildSDK.setCrashMetadataObject(BuddyBuildSDK.userEmail(), forKey: "UserEmail");
         
         BuddyBuildSDK.setCrashMetadataObject("v1k3", forKey: "k3");
 
