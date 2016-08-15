@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         dispatch_after(popTime, dispatch_get_main_queue()) { // 2
             
             BuddyBuildSDK.setCrashMetadataObject("AsyncValue", forKey: "AsyncKey");
+            BuddyBuildSDK.setCrashMetadataObject(BuddyBuildSDK.userEmail(), forKey: "UserEmailAsync");
         }
     }
     @IBAction func setNew(sender: AnyObject) {
