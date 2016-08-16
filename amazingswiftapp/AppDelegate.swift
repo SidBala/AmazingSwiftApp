@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         BuddyBuildSDK.setup()
         
         BuddyBuildSDK.setCrashMetadataObject(BuddyBuildSDK.userEmail(), forKey: "UserEmailInApplicationConstructor")
+        BuddyBuildSDK.setCrashMetadataObject(BuddyBuildSDK.branchName(), forKey: "BranchName")
         // Override point for customization after application launch.
         return true
     }
