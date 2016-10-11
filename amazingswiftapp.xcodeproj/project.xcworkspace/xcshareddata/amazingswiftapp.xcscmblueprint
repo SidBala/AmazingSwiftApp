@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C2A8CC4AE982197E5C2F5595058B90E67962BA64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C2A8CC4AE982197E5C2F5595058B90E67962BA64" : 0,
+    "42619467AFF6AA18B133FF3F51606403E514B141" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "24166A1C-C931-4BF6-A485-9A19D9FB11B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C2A8CC4AE982197E5C2F5595058B90E67962BA64" : "amazingswiftapp\/",
+    "42619467AFF6AA18B133FF3F51606403E514B141" : "..\/..\/Gits\/BuddyBuildSDK"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "amazingswiftapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "amazingswiftapp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BuddyBuild\/BuddyBuildSDK",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42619467AFF6AA18B133FF3F51606403E514B141"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:SidBala\/AmazingSwiftApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C2A8CC4AE982197E5C2F5595058B90E67962BA64"
+    }
+  ]
+}
